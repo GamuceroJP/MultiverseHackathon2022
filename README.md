@@ -1,6 +1,3 @@
-# MultiverseHackathon2022
-Repositorio para proyectos del Multiverse Hackathon 2022, equipo "Los Plancktons"
-
 ---
 title: "test"
 output: 
@@ -9,6 +6,8 @@ output:
     includes:
       in_header: head.html
 ---
+# MultiverseHackathon2022
+Repositorio para proyectos del Multiverse Hackathon 2022, equipo "Los Plancktons"
 
 <!-- creating header file to insert in-header. mathjax config seems to be required -->
 ```{cat, engine.opts = list(file = "head.html")}
