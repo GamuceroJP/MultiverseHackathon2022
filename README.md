@@ -1,4 +1,4 @@
-# Intento de Markup
+# Intento de Markdown
 
 1. Open the file.
 2. Find the following code block on line 21:
