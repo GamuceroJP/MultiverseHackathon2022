@@ -2,7 +2,7 @@
 
 1. Open the file.
 2. Find the following code block on line 21:
-
+```python
        def partition(my_arr, start, end):
           pivot = my_arr[end] 
           i = start -1
@@ -18,5 +18,5 @@
          arr = [15, 9, 11, 2 ,21,12]
          quicksort(arr, 0, 5)
          print(arr)
-
+```
 3. Update the title to match the name of your website.
