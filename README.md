@@ -29,19 +29,6 @@ otherwise, the `i`-th element is not in the subset. Clearly the number of
 distinct subsets that can be constructed this way is `2^n` as `γi ∈ {0, 1}`.
 
 
-<div id="adobe-dc-view" style="height: 360px; width: 500px;"></div>
-<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
-<script type="text/javascript">
-  document.addEventListener("adobe_dc_view_sdk.ready", function(){
-    var adobeDCView = new AdobeDC.View({clientId: "<YOUR_CLIENT_ID>", divId: "adobe-dc-view"});
-    adobeDCView.previewFile({
-      content:{ location:
-        { url: "https://documentcloud.adobe.com/view-sdk-demo/PDFs/Bodea%20Brochure.pdf"}},
-      metaData:{fileName: "Bodea Brochure.pdf"}
-    },
-    {
-      embedMode: "SIZED_CONTAINER"
-    });
-  });
-</script>
+<embed src="https://github.com/GamuceroJP/MultiverseHackathon2022/blob/main/Template_tareas.pdf" width="500" height="375" 
+ type="application/pdf">
 
